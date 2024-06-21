@@ -1,0 +1,26 @@
+@import '../../../styles/variables.scss';
+
+.container {
+    padding: 40px 60px;
+    height: 84vh;
+    overflow-y: auto;
+
+    table{
+        width: 100%;
+        border-radius: 5px;
+        border-right: 1px solid;
+        border-left: 1px solid;
+        box-shadow: 20px;
+
+
+        button.edit:hover{
+            background-color: $primary-color;
+            color: $text-color;
+        }
+
+        button.delete:hover{
+            background-color: $red-color;
+            color: $text-color;
+        }
+    }
+}

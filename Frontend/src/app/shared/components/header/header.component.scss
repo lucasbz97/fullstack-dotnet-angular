@@ -1,0 +1,8 @@
+@import '../../../../styles/variables.scss';
+
+.container {
+    mat-toolbar {
+        background-color: $primary-color;
+        color: $text-color;
+    }
+}

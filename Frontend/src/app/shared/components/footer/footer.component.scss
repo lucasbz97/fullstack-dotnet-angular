@@ -1,0 +1,10 @@
+@import '../../../../styles/variables.scss';
+
+.container{
+    background-color: $primary-color;
+    color: $text-color;
+    padding: 20px 50px 20px 50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}

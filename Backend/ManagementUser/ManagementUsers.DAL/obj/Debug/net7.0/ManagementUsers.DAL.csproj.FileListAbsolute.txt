@@ -1,0 +1,14 @@
+S:\Dev\ManagementUsers\ManagementUsers.DAL\bin\Debug\net7.0\ManagementUsers.DAL.deps.json
+S:\Dev\ManagementUsers\ManagementUsers.DAL\bin\Debug\net7.0\ManagementUsers.DAL.runtimeconfig.json
+S:\Dev\ManagementUsers\ManagementUsers.DAL\bin\Debug\net7.0\ManagementUsers.DAL.dll
+S:\Dev\ManagementUsers\ManagementUsers.DAL\bin\Debug\net7.0\ManagementUsers.DAL.pdb
+S:\Dev\ManagementUsers\ManagementUsers.DAL\obj\Debug\net7.0\ManagementUsers.DAL.csproj.AssemblyReference.cache
+S:\Dev\ManagementUsers\ManagementUsers.DAL\obj\Debug\net7.0\ManagementUsers.DAL.GeneratedMSBuildEditorConfig.editorconfig
+S:\Dev\ManagementUsers\ManagementUsers.DAL\obj\Debug\net7.0\ManagementUsers.DAL.AssemblyInfoInputs.cache
+S:\Dev\ManagementUsers\ManagementUsers.DAL\obj\Debug\net7.0\ManagementUsers.DAL.AssemblyInfo.cs
+S:\Dev\ManagementUsers\ManagementUsers.DAL\obj\Debug\net7.0\ManagementUsers.DAL.csproj.CoreCompileInputs.cache
+S:\Dev\ManagementUsers\ManagementUsers.DAL\obj\Debug\net7.0\ManagementUsers.DAL.dll
+S:\Dev\ManagementUsers\ManagementUsers.DAL\obj\Debug\net7.0\refint\ManagementUsers.DAL.dll
+S:\Dev\ManagementUsers\ManagementUsers.DAL\obj\Debug\net7.0\ManagementUsers.DAL.pdb
+S:\Dev\ManagementUsers\ManagementUsers.DAL\obj\Debug\net7.0\ManagementUsers.DAL.genruntimeconfig.cache
+S:\Dev\ManagementUsers\ManagementUsers.DAL\obj\Debug\net7.0\ref\ManagementUsers.DAL.dll

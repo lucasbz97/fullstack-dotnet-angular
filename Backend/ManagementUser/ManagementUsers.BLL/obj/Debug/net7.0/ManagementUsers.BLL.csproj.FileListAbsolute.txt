@@ -1,0 +1,15 @@
+S:\Dev\ManagementUsers\ManagementUsers.BLL\bin\Debug\net7.0\ManagementUsers.BLL.deps.json
+S:\Dev\ManagementUsers\ManagementUsers.BLL\bin\Debug\net7.0\ManagementUsers.BLL.dll
+S:\Dev\ManagementUsers\ManagementUsers.BLL\bin\Debug\net7.0\ManagementUsers.BLL.pdb
+S:\Dev\ManagementUsers\ManagementUsers.BLL\bin\Debug\net7.0\ManagementUsers.DAL.dll
+S:\Dev\ManagementUsers\ManagementUsers.BLL\bin\Debug\net7.0\ManagementUsers.DAL.pdb
+S:\Dev\ManagementUsers\ManagementUsers.BLL\obj\Debug\net7.0\ManagementUsers.BLL.csproj.AssemblyReference.cache
+S:\Dev\ManagementUsers\ManagementUsers.BLL\obj\Debug\net7.0\ManagementUsers.BLL.GeneratedMSBuildEditorConfig.editorconfig
+S:\Dev\ManagementUsers\ManagementUsers.BLL\obj\Debug\net7.0\ManagementUsers.BLL.AssemblyInfoInputs.cache
+S:\Dev\ManagementUsers\ManagementUsers.BLL\obj\Debug\net7.0\ManagementUsers.BLL.AssemblyInfo.cs
+S:\Dev\ManagementUsers\ManagementUsers.BLL\obj\Debug\net7.0\ManagementUsers.BLL.csproj.CoreCompileInputs.cache
+S:\Dev\ManagementUsers\ManagementUsers.BLL\obj\Debug\net7.0\Manageme.C06443BA.Up2Date
+S:\Dev\ManagementUsers\ManagementUsers.BLL\obj\Debug\net7.0\ManagementUsers.BLL.dll
+S:\Dev\ManagementUsers\ManagementUsers.BLL\obj\Debug\net7.0\refint\ManagementUsers.BLL.dll
+S:\Dev\ManagementUsers\ManagementUsers.BLL\obj\Debug\net7.0\ManagementUsers.BLL.pdb
+S:\Dev\ManagementUsers\ManagementUsers.BLL\obj\Debug\net7.0\ref\ManagementUsers.BLL.dll

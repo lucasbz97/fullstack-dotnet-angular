@@ -1,0 +1,57 @@
+@import '../../../../styles/variables.scss';
+* {
+    overflow: hidden;
+}
+.header {
+    display: flex;
+    padding: 20px;
+    background-color: $primary-color;
+    color: $text-color;
+}
+.dialog-content {
+    //max-height: 600px; /* Define a altura máxima do conteúdo */
+    //overflow-y: auto; /* Permite rolagem vertical */
+    padding: 5px;
+
+    .subtitle{
+        padding: 8px;
+    }
+
+    .form-fields {
+        display: flex;
+        padding: 8px;
+
+        .field {
+            padding: 6px;
+        }
+
+        .btn-remove {
+            display: flex;
+            justify-content: center;
+            text-align: center;
+            color: $red-color;
+
+            .icon-remove {
+                display: flex;
+                padding: 4px;
+                justify-content: center;
+                align-items: center;
+            }
+        }
+
+        .btn-remove:hover {
+            background-color: #993c3c;
+            color: $text-color;
+        }
+    }
+  }
+  
+  .dependent-group {
+    margin-bottom: 20px;
+  }
+  
+  .dialog-actions {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+  }
